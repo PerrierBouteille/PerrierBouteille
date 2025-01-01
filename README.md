@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Perrier, a French developer. <br>I love creating random things that turn around Minecraft.
+Hi I'm Perrier, a French developer. <br>I love creating random things that turn around Minecraft, Bot and AI !
 
 
 ## 🌐 Socials:
