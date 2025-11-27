@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi I'm Perrier, a French developer. <br>I love creating random things that turn around Minecraft, Bot and AI !
-
+Check also [Cup'Code GitHub](https://github.com/CodeAndCup) that is my organisation for community/big project.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.cupcode.fr/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/PerrierBouteille) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@perrierbottle) [![Cup'Code](https://img.shields.io/badge/Cup'Code-ba8e56.svg?logo=Apache&logoColor=white)](https://cupcode.fr/)
