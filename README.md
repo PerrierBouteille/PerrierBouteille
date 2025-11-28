@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <img src="/images/Discussion.png"/> About Me:
 Hi I'm Perrier, a French developer. <br>I love creating random things that turn around Minecraft, Bot and AI !
 Check also [Cup'Code GitHub](https://github.com/CodeAndCup) that is my organisation for community/big project.
 
