@@ -6,6 +6,7 @@ Check also [Cup'Code GitHub](https://github.com/CodeAndCup) that is my organisat
 <a href="https://discord.cupcode.fr/">
   <img src="/images/Discord.png"/>
 </a>
+
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/PerrierBouteille) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@perrierbottle) [![Cup'Code](https://img.shields.io/badge/Cup'Code-ba8e56.svg?logo=Apache&logoColor=white)](https://cupcode.fr/)
 
 # 💻 Tech Stack:
