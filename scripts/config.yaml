@@ -1,0 +1,36 @@
+about: "Hi I'm Perrier, a French developer. I love creating random things that turn around Minecraft, Server Infrastructure and AI!\nCheck also Cup'Code GitHub https://github.com/CodeAndCup that is my organisation for community/big project."
+socials:
+  Website: "https://cupcode.fr/"
+  Discord: "https://discord.cupcode.fr/"
+  Twitch: "https://twitch.tv/PerrierBouteille"
+  YouTube: "https://youtube.com/@perrierbottle"
+tech_stack:
+  Langages:
+    - Java/Kotlin
+    - JavaScript/TypeScript
+    - C#
+    - C++
+    - Python
+    - Shell
+  Web / Frameworks:
+    - HTML5
+    - CSS3
+    - NodeJS
+    - ReactJS
+    - NextJS
+    - TailwindCSS
+    - Spring Boot
+    - NPM
+  Bases de données:
+    - MongoDB
+    - MySQL
+    - MariaDB
+    - Redis
+    - Postgres
+  Outils / CI:
+    - YAML/JSON
+    - Maven
+    - Gradle
+    - Git
+    - GitHub
+username: "PerrierBouteille"
